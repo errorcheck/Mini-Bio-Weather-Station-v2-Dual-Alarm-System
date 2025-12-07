@@ -51,6 +51,8 @@ This project will be showcased at the Technology Fair of the National University
 
 Special thanks to the Municipality of San Martín, Argentina, for providing the space and trust to develop educational robotics with real social impact.
 
+And special gratitude to my mysterious technological sensei, who opened the doors and chose me to teach when others could not see what was possible.
+
 “I shared my code with love, but my name always travels with it.”
 Sonia Alejandra Toledo (AdaByte)
 
